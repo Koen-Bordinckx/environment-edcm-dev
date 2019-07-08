@@ -1,5 +1,4 @@
 dependencies:
 - name: theglue-addons-storage
-  version: 0.1.0
   repository: http://jenkins-x-chartmuseum:8080
-
+  version: 0.0.5
