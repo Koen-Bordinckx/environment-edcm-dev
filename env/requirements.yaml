@@ -1,9 +1,5 @@
 dependencies:
-- name: exposecontroller
-  version: 2.3.89
+- name: theglue-addons-storage
+  version: 0.1.0
   repository: http://chartmuseum.jenkins-x.io
-  alias: expose
-- name: exposecontroller
-  version: 2.3.89
-  repository: http://chartmuseum.jenkins-x.io
-  alias: cleanup
+
